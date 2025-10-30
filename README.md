@@ -8,7 +8,7 @@ A máquina de estados foi definida em JSON e visualmente no console da AWS, perm
 
 - Inicializar o processo de recomendação
 - Verificar se há um prompt de entrada do usuário
-- Invocar o modelo Titan Text Express v1 via Bedrock para gerar sugestões personalizadas
+- Invocar um modelo a qual está permitido para usar o Amazon Beadrock e personaliza-lo
 - Finalizar o fluxo com sucesso
 
 ## 🎯 Objetivo
