@@ -27,7 +27,7 @@ Antes de executar este projeto, certifique-se de ter:
 
 - Uma conta AWS com permissões para usar Step Functions e Bedrock
 - Permissão para invocar modelos 
-- AWS CLI configurado ou acesso ao console AWS
+- Acesso ao console AWS
 - Entendimento básico com JSON e fluxos de trabalho serverless
 
 ## ▶️ Como rodar
