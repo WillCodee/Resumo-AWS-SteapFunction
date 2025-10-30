@@ -19,7 +19,7 @@ Criar uma solução escalável e modular que simula um assistente virtual capaz 
 
 - **AWS Step Functions**: para orquestração do fluxo de trabalho
 - **Amazon Bedrock**: para integração com modelos de linguagem generativa
-- **Titan Text Express v1**: modelo utilizado para gerar respostas baseadas em prompt
+
 
 ## 📦 Pré-requisitos
 
@@ -40,7 +40,7 @@ Antes de executar este projeto, certifique-se de ter:
 ```json
 {
   "input": {
-    "prompt": "Quero sugestões de comida japonesa para entrega"
+    "prompt": "Quero sugestões de items que combinam com comida japonesa para entrega"
   }
 }
 
