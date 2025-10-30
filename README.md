@@ -33,7 +33,7 @@ Antes de executar este projeto, certifique-se de ter:
 ## ▶️ Como rodar
 
 1. Acesse o console do **AWS Step Functions**
-2. Crie uma nova máquina de estados usando o modo visual (Workflow Studio)
+2. Crie uma nova máquina de estados usando o modo visual (Workflow)
 3. Copie e cole a definição JSON do projeto
 4. Execute o fluxo com um input contendo o campo `prompt`, por exemplo:
 
