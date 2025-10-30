@@ -13,7 +13,7 @@ A máquina de estados foi definida em JSON e visualmente no console da AWS, perm
 
 ## 🎯 Objetivo
 
-Criar uma solução escalável e modular que simula um assistente virtual capaz de sugerir opções de delivery com base nas preferências ou contexto fornecido pelo usuário.
+Criar um assistente virtual capaz de sugerir opções de delivery com base nas preferências ou contexto fornecido pelo usuário.
 
 ## 🚀 Tecnologias utilizadas
 
@@ -26,9 +26,9 @@ Criar uma solução escalável e modular que simula um assistente virtual capaz 
 Antes de executar este projeto, certifique-se de ter:
 
 - Uma conta AWS com permissões para usar Step Functions e Bedrock
-- Permissão para invocar modelos via `arn:aws:states:::bedrock:invokeModel`
+- Permissão para invocar modelos 
 - AWS CLI configurado ou acesso ao console AWS
-- Familiaridade com JSON e fluxos de trabalho serverless
+- Entendimento básico com JSON e fluxos de trabalho serverless
 
 ## ▶️ Como rodar
 
